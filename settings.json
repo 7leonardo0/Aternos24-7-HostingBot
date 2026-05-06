@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Pdf_file.aternos.me",
+    "ip": "Pdf_file.aternos.me:39372",
     "port": 39372,
     "version": "1.21.11",
     "try-creative": false
@@ -37,7 +37,7 @@
       ]
     },
     "chat-log": true,
-    "auto-reconnect": false,
+    "auto-reconnect": true,
     "auto-reconnect-delay": 2000,
     "max-reconnect-delay": 120000
   },
