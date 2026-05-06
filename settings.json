@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Pdf_file.aternos.me:39372",
+    "ip": "Pdf_file.aternos.me",
     "port": 39372,
     "version": "1.21.11",
     "try-creative": false
